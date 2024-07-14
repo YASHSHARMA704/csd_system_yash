@@ -5,13 +5,14 @@
 </footer>
 <style>
 footer {
-    background-color: #002147;
-    color: white;
+    background-color: transparent;
+    color: Red;
     text-align: center;
     padding: 10px 0;
     margin-top: auto;
     position: fixed;
     width: 100%;
     bottom: 0;
+    font : bold;
 }
 </style>
